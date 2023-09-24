@@ -1,0 +1,16 @@
+{
+  "name": "email_sender",
+  "version": "1.0.0",
+  "description": "this is dummy project for email sending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Suraj Jha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.5",
+    "nodemon": "^3.0.1"
+  }
+}
